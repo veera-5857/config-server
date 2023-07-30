@@ -6,3 +6,5 @@ eureka:
       defauleZone: http://localhost:8765/euraka/
   instance:
     hostname: localhost
+
+    message: "gl"
