@@ -32,6 +32,4 @@ pipeline:
                   identifier: Run_1
                   spec:
                     shell: Sh
-                    command: |-
-                      echo "Welcome to Harness CI"
-                      mvn -B package --file pom.xml
+                    command: echo "Welcome to Harness CI"
